@@ -207,6 +207,7 @@ section.success {
    position: absolute; 
    text-align:center;  
    width: 100%; 
+   margin-bottom:50px;
 }  
 
 #portfolio .portfolio-item .portfolio-link {
