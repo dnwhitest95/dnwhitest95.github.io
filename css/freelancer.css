@@ -62,9 +62,12 @@ hr.star-primary {
 }
 hr.star-primary:after {
   background-color: white;
-  color: #2C3E50;
+  color: #333;
 }
 .img-centered {
+  position:relative ;
+  width:400px;
+  height:288.88px;
   margin: 0 auto;
 }
 header {
@@ -204,13 +207,12 @@ section.success {
   left:0;
   right:0;
   bottom:0;
-  top:0;
   margin:auto;
   height:100px;
   line-height:100px;
-  border: groove 2px; 
   font-family:"Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background:rgba(256,256,256,0.6);
+  background:rgba(256,256,256,0.7);
+  color:#bc1818;
   }
 #portfolio .portfolio-item {
   margin: 0 0 15px;
@@ -483,6 +485,9 @@ fieldset[disabled] .btn-success.active {
   font-size: 3em;
 }
 .portfolio-modal .modal-content img {
+  position: relative;
+  width: 200px 
+  height:200px;
   margin-bottom: 30px;
 }
 .portfolio-modal .modal-content .item-details {
