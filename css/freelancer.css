@@ -213,6 +213,7 @@ section.success {
   font-family:"Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background:rgba(256,256,256,0.7);
   color:#bc1818;
+  font-weight: :bold;
   }
 #portfolio .portfolio-item {
   margin: 0 0 15px;
