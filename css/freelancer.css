@@ -219,6 +219,10 @@ section.success {
   font-size:20px;
 
   }
+
+.block-links .modal-links{
+  right:10px;
+}
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
@@ -478,7 +482,8 @@ fieldset[disabled] .btn-success.active {
 
 #skills-list{
   text-align:left; 
-  line-height: 1.5em  
+  line-height: 2em
+  background-image:url(); 
 }
 .portfolio-modal .modal-content {
   border-radius: 0;
