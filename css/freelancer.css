@@ -222,11 +222,9 @@ section.success {
 
 .blocks-links.modal-links{
   text-align:center;
-  top: -300px;
+  margin-top: 200px;
 }
-#skills-list::first-line ul{
-text-decoration:underline;
-}
+
 
 #portfolio .portfolio-item {
   margin: 0 0 15px;
@@ -248,7 +246,7 @@ text-decoration:underline;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
   z-index:202020;
-  background: rgba(24, 188, 156, 0.9);
+  background: #BC1818;
   position: absolute;
   width: 100%;
   height: 100%;
