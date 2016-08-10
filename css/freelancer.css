@@ -220,9 +220,14 @@ section.success {
 
   }
 
-.block-links .modal-links{
-  right:10px;
+.blocks-links.modal-links{
+  text-align:center;
+  top: -300px;
 }
+#skills-list::first-line ul{
+text-decoration:underline;
+}
+
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
@@ -481,9 +486,10 @@ fieldset[disabled] .btn-success.active {
 }
 
 #skills-list{
+  font-family:"Candal", sans-serif;
   text-align:left; 
-  line-height: 2em
-  background-image:url(); 
+  line-height: 2em 
+
 }
 .portfolio-modal .modal-content {
   border-radius: 0;
