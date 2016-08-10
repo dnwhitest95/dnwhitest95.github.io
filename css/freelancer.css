@@ -204,7 +204,7 @@ section.success {
   }
 }
 .blocks-links{
-  font-family: "Candal", sans-serif;
+  font-family:'Montserrat','Helvetica Neue', Helvetica, Arial, sans-serif;
   position:absolute;
   left:0;
   right:0;
@@ -484,7 +484,6 @@ fieldset[disabled] .btn-success.active {
 }
 
 #skills-list{
-  font-family:"Candal", sans-serif;
   text-align:left; 
   line-height: 2em 
 
@@ -511,6 +510,7 @@ fieldset[disabled] .btn-success.active {
 }
 .portfolio-modal .modal-content .item-details {
   margin: 30px 0;
+  overflow: auto
 }
 .portfolio-modal .close-modal {
   position: absolute;
