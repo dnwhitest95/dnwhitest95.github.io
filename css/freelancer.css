@@ -225,7 +225,9 @@ section.success {
   margin-top: 200px;
 }
 
-
+.bottom-row{
+  padding:10px;
+}
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
@@ -278,6 +280,11 @@ section.success {
 #portfolio * {
   z-index: 2;
 }
+
+
+
+
+
 @media (min-width: 767px) {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
@@ -483,16 +490,16 @@ fieldset[disabled] .btn-success.active {
   outline: none;
 }
 
-#skills-list{
+#modal-list{
   text-align:left; 
   line-height: 2em; 
   font-size:1.2em;
 
 }
-
 .modal-info{
   text-align-last: center;
 }
+
 .portfolio-modal .modal-content {
   border-radius: 0;
   background-clip: border-box;
