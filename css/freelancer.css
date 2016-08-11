@@ -485,8 +485,13 @@ fieldset[disabled] .btn-success.active {
 
 #skills-list{
   text-align:left; 
-  line-height: 2em 
+  line-height: 2em; 
+  font-size:1.2em;
 
+}
+
+.modal-info{
+  text-align-last: center;
 }
 .portfolio-modal .modal-content {
   border-radius: 0;
