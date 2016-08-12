@@ -3065,7 +3065,8 @@ fieldset[disabled] a.btn {
   color: #333;
   background-color: #fff;
   border-color: #ccc;
-  margin:25px 325px 0px;
+  margin:25px 325px 0;
+ y
 
 }
 .btn-default:focus,
@@ -5952,6 +5953,10 @@ button.close {
 .modal-body {
   position: relative;
   padding: 15px;
+}
+.modal-body p{
+  font-size:15px;
+  line-height: 1.5em
 }
 .modal-footer {
   padding: 15px;
