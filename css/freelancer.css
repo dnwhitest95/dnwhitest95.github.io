@@ -70,6 +70,22 @@ hr.star-primary:after {
   width:400px;
   height:288.88px;
   margin: 0 auto;
+
+}
+
+@media (max-width:768px){
+  .img-centered{
+    padding-right:60px;
+  }
+  .blocks-links.modal-links{
+    margin-top:230px;
+  }
+  .portfolio-modal .modal-content img{
+    padding-right:60px;
+  }
+  .porfolio-modal .modal-content{
+    text-align:center;
+  }
 }
 header {
   text-align: center;
@@ -222,7 +238,7 @@ section.success {
 .blocks-links.modal-links{
   text-align:center;
   margin-top: 200px;
-  
+
 }
 
 .bottom-row{
