@@ -74,14 +74,10 @@ hr.star-primary:after {
 }
 
 @media (max-width:768px){
-  .img-centered{
-    padding-right:60px;
-  }
+
   .blocks-links.modal-links{
     margin-top:230px;
-  }
-  .portfolio-modal .modal-content img{
-    padding-right:60px;
+
   }
   .porfolio-modal .modal-content{
     text-align:center;
@@ -534,6 +530,7 @@ fieldset[disabled] .btn-success.active {
   position: relative;
   margin:auto;
   max-width: 400px;
+  max-width:100%;
   margin-bottom: 30px;
   padding-bottom:15px;
 }
