@@ -75,14 +75,11 @@ hr.star-primary:after {
 
 @media (max-width:768px){
 
-  .blocks-links.modal-links{
-    margin-top:230px;
-
-  }
+  
   .porfolio-modal .modal-content{
     text-align:center;
   }
-}
+
 header {
   text-align: center;
   background: rgb(188,24,24);
