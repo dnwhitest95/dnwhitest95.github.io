@@ -1442,8 +1442,8 @@ ol ol {
 }
 @media  (max-width: 768px){
 
-  .list-inline ul > li {
-    text-align-last:left;
+  .list-inline > li {
+    display:block;
   }
 }
 dl {
